@@ -1,2 +1,2 @@
 # DJUtils
-Basic utilities for David Ji
+Basic utilities by David Ji
